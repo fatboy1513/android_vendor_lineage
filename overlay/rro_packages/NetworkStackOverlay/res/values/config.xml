@@ -19,4 +19,7 @@
     <!-- Configuration for including DHCP client hostname option -->
     <bool name="config_dhcp_client_hostname">true</bool>
 
+    <string name="config_captive_portal_http_url" translatable="false">http://connect.rom.miui.com/generate_204</string>
+    <string name="config_captive_portal_https_url" translatable="false">https://connect.rom.miui.com/generate_204</string>
+
 </resources>
