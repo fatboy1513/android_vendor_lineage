@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="default_search_engine" translatable="false">https://cn.bing.com/search?q={searchTerms}</string>
+    <string name="default_home_page" translatable="false">https://cn.bing.com</string>
+    <string name="default_suggestion_provider" translatable="false">BING</string>
+</resources>
