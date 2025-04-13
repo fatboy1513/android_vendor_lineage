@@ -19,4 +19,11 @@
 
     <!-- Default for LineageSettings.Secure.STATS_COLLECTION -->
     <bool name="def_stats_collection">true</bool>
+
+    <!-- Default for LineageSettings.System.STATUS_BAR_BATTERY_STYLE
+         * 0: Display the battery as icon in portrait mode
+         * 1: Display the battery as a circle
+         * 2: Display the battery as plain text
+    -->
+    <integer name="def_battery_style">1</integer>
 </resources>
